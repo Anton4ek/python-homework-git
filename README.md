@@ -11,4 +11,4 @@ cat results/output.txt
 - ```Dockerfile```
 - ```Snakefile```
 - ```scripts/simple_script.py```
-- ```.gitignore```
+- ```.gitignore``` 
