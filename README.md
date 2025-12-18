@@ -3,9 +3,10 @@
 Должен быть установлен Docker, код запускать через wsl/Linux
 Нужно поочередно запустить эти команды:
 ```bash
+cd python-homework-git
 docker build -t homework .
 docker run --rm -v $(pwd):/workspace homework
-cat results/output.txt
+cat results/output.txt #выводит результат
 ```
 ## Результат
 Создается файл ```results/output.txt``` с таблицей умножения на 7.
