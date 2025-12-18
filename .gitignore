@@ -1,0 +1,6 @@
+.snakemake/
+results/
+.bash_history
+*.log
+*.tmp
+__pycache__/
